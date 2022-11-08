@@ -1,13 +1,3 @@
----
-permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
-excerpt: "About me"
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
----
-
 PRATHYUSH SAMBATURU
 
 ABOUT ME
@@ -23,6 +13,8 @@ Computational Epidemiology
 Stochastic) Combinatorial Optimization
 
 Explainable Artificial Intelligence 
+
+Mastodon: <a rel="me" href="https://mathstodon.xyz/@prathyushsambaturu">Mastodon</a>
 
 PUBLICATIONS (in reverse chronological order) [c: conference, w: workshop (archived), j: journal, p: poster]
 
