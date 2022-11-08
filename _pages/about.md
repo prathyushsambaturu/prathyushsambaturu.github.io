@@ -1,15 +1,12 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "PRATHYUSH SAMBATURU"
 excerpt: "About me"
 author_profile: true
 redirect_from:
   - /about/
   - /about.html
 ---
-
-PRATHYUSH SAMBATURU
-
 ABOUT ME
 
 I'm a postdoctoral researcher in network science and computational epidemiology in Department of Biology at the University of Oxford. Previously, I completed a Ph.D. in Computer Science at the University of Virginia (UVA) under the guidance of Prof. Anil Vullikanti at the Biocomplexity Institute and Initiative, UVA. Also, I completed a Master of Science (MS) by Research at IIIT Hyderabad under the guidance of Prof. Kamalakar Karlapalem and Prof. Kishore Kothapalli.
